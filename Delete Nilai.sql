@@ -1,0 +1,1 @@
+delete from nilai where id='2';
